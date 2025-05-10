@@ -1,19 +1,19 @@
-# Power_BI_Dashboard
-Files related Interactive Dashboard in Power BI Lesson video available on YouTube
-<Br>
+# Mobile Sales Analysis
 
+## Objective: 
+My goal was to create a comprehensive Sales Analyst dashboard to gain valuable insights and support decision-making processes.
 
+## 🔗 Links
+👆 [Click Here View Interactive Power BI Dashboard](https://app.powerbi.com/reportEmbed?reportId=c2a10afc-0d48-49c9-ab60-2e22455b143c&autoAuth=true&ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f)
 
+## Screenshots
 
-👉 Watch Video : <br><br>
+Sales Analysis Snap
 
-[![Watch the video](https://img.youtube.com/vi/znJGWMtk_EE/hqdefault.jpg)](https://www.youtube.com/watch?v=znJGWMtk_EE&t=1s)
-<br><br>
-👉 You will be able to build Dashboard like below <br><br>
-👆 [Click Here View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzEwYzYzOTYtOWRkNC00ZWM5LTkwM2MtNWE2YmI2YzkzNWY0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-<br><br>
-<img src="https://github.com/SatishDhawale/Power_BI_Dashboard/blob/0192a63d87dda50ea2f26bca02ba048dd883b9d1/Dashboard.jpg" alt="Image Description" width="300">
-<img src="https://github.com/SatishDhawale/Power_BI_Dashboard/blob/0192a63d87dda50ea2f26bca02ba048dd883b9d1/MTD%20Report.jpg" width="300">
-<img src="https://github.com/SatishDhawale/Power_BI_Dashboard/blob/0192a63d87dda50ea2f26bca02ba048dd883b9d1/Same%20Period%20Last%20Year%20report.jpg" alt="Image Description" width="300">
-
-
+![Sales Analysis](https://github.com/tushar8057/Mobile_Sales_Dashboard-PowerBI/blob/main/Dashboard%20preview/Dashboard.jpg)
+<br></br>
+<br></br>
+![Another_Analysis](https://github.com/tushar8057/Mobile_Sales_Dashboard-PowerBI/blob/main/Dashboard%20preview/MTD%20Report.jpg)
+<br></br>
+<br></br>
+![Another_Sales](https://github.com/tushar8057/Mobile_Sales_Dashboard-PowerBI/blob/main/Dashboard%20preview/Same%20Period%20Last%20Year%20report.jpg)
